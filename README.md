@@ -1,4 +1,4 @@
-### Hi, I'm Tatiana 👋
+### Hi, I'm Tatiana! 👋  I'm a full-stack web developer with an interest in front-end and back-end development. 
 - 💪 I'm currently working on a Merchant Marketplace project. My role is front-end dev.
 - 💻 I use daily: `.js` `.jsx` `.py` `.json` `.html` `.css` `.md`
 - 🌱 I’m currently learning more about **JavaScript, React, Redux, NodeJS, Python, CS Algorithms**
